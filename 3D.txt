@@ -1,0 +1,13 @@
+flange nut = 7.5
+screw = 4
+
+go pro nut = 8.2
+screw = 5
+
+cost to build = 26.5g = 30p
+nuts = 
+2 x nuts = 2p
+2 x bolts = 20p
+
+camera handle = 20p
+camera nut = 15p
